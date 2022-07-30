@@ -1,7 +1,8 @@
-### Hi there 👋
+
+## Hi there, my name is Adriano!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoharm/)
 
-About me: <br>
+### About me: <br>
 
 💻 I'm a software engineer passionate about web development <br>
 🎙 I'm talking about [React, Node] <br>
